@@ -1,6 +1,6 @@
 ---
 title: Web Design
-image_path: ""
+image_path: /pen.png
 ---
 
 Beautiful, clean designs tailored to your business
